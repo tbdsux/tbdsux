@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a student and is currently exploring the programming world. 
+
+I code but I have no money, so I rely on free services.
+
 <!--
 **TheBoringDude/TheBoringDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
