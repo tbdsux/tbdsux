@@ -4,7 +4,7 @@ I am a student and is currently exploring the programming world.
 
 I code but I have no money, so I rely on free services.
 
-<a href="https://www.buymeacoffee.com/theboringdude" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 100px !important;" ></a>
+<a href="https://www.buymeacoffee.com/theboringdude" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="175" ></a>
 
 <!--
 **TheBoringDude/TheBoringDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
