@@ -6,12 +6,6 @@ I am a beginner and a newbie programmer.
 
 I code but I have no money, so I rely on free services.
 
-**Due to my current situation, what do I commonly do?**
-- Code **scraper** APIs and deploy them on serverless platforms.
-- Design some websites, if I want to.
-- Make the app that I want to have.
-- Learn NEW Frameworks and Programming Languages
-
 <a href="https://www.buymeacoffee.com/theboringdude" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="175" ></a>
 
 <!--
