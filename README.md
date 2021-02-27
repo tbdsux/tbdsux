@@ -4,8 +4,6 @@ I am a student  and is currently exploring the programming world.
 
 I am a beginner and a newbie programmer.
 
-I code but I have no money, so I rely on free services.
-
 <a href="https://www.buymeacoffee.com/theboringdude" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="175" ></a>
 
 <!--
