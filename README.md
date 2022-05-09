@@ -1,6 +1,4 @@
-#### I just code :blush:
-
-<a href="https://www.buymeacoffee.com/theboringdude" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="175" ></a>
+~~ -_- ~~
 
 <!--
 **TheBoringDude/TheBoringDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
